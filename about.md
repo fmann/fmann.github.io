@@ -1,15 +1,14 @@
 ---
-layout: page
-title: About
+title: Colophon
 permalink: /about/
+layout: page
+excerpt: This and that.
+comments: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a web developer living in Vancouver, BC. I run [The Fresh Loaf](https://thefreshloaf.com). I like to read books.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+**find me at ✨**
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- {{ site.author.email }}
+- github.com/{{ site.author.github }}

@@ -45,7 +45,7 @@ layout: compress
             </span>
           </div>
           {% endif %}
-          <h1 class="header-title" itemprop="headline">{{ page.title | escape }}</h1>
+          <h1 class="header-title" itemprop="headline">{{ page.artist }} - {{ page.title | escape }} ({{ page.year }})</h1>
           {% if page.date %}
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -65,12 +65,13 @@ layout: compress
         </header>
 
         <div class="page-content" itemprop="articleBody">
-          {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
-          {% if page.tweet %}
-          <p>Comments this article on 
-            <a href="https://twitter.com/{{site.twitter}}/status/{{page.tweet}}">Twitter</a>.
-          </p>
+          {% if page.image %}
+            <div>
+              <img src={{ page.image }}
+            </div>
           {% endif %}
+          {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
+
         </div>
       </article>
     
