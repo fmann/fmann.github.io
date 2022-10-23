@@ -21,7 +21,7 @@ Prince's first album. Nearly all instruments played by Prince himself.
 8.	"So Blue"
 9.	"I'm Yours"
 
-## Comments
+### Comments
 
 ##### "For You"
 
