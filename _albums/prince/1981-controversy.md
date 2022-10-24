@@ -40,3 +40,25 @@ Includes the Lord's Prayer for no reason I can fathom than just creating controv
 More New Wave-y, less funk than much of what he's done up until now. No bass that I can hear, just a synth bass line.
 
 ##### "Do Me, Baby"
+
+Slow jam that builds up quite a, um, climax. It works.
+
+##### "Private Joy"
+
+Regrettably 80s synth pop, though there is a some nice bass work buried under there and it end with distorted guitar.
+
+##### "Ronnie, Talk to Russia"
+
+Anti-nuclear war jam that sounds like Jimi Hendrix covering "Wheels on the Bus" in 1981. Not very good, though "Don't blow up the world" isn't a bad message.
+
+##### "Let's Work"
+
+Reminiscent of "Head" but with the thicker sound that he found on this album. Solid bass driven dance tune.
+
+##### "Annie Christian"
+
+Weird song.
+
+##### "Jack U Off"
+
+The first appearance of the Prince "U" that later shows up in "I Would Die for U". Has some retro Rock n' Roll elements that I am not a fan of.
