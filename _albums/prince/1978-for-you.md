@@ -57,4 +57,4 @@ Another acoustic-y ballad.
 
 ##### "I'm Yours"
 
-Probably the most confusing track on the album. Four bads of slap bass intro then you get hit with a rock drums and guitar intro that sounds like it could be on a Survivor or Loverboy album. The song itself mixes funk and hard rock guitar in ways that few artists but Prince and maybe Lenny Kravitz do. Ends hard.
+Probably the most confusing track on the album. Four bars of slap bass intro then you get hit with a rock drums and guitar intro that sounds like it could be on a Survivor, Journey, or Loverboy track. The song itself mixes funk and hard rock guitar in ways that few artists but Prince and maybe Lenny Kravitz do. Ends hard.
