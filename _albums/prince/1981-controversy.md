@@ -61,4 +61,4 @@ Weird song.
 
 ##### "Jack U Off"
 
-The first appearance of the Prince "U" that later shows up in "I Would Die for U". Has some retro Rock n' Roll elements that I am not a fan of.
+The first appearance of the Prince "U" that later shows up in "I Would Die 4 U". Has some retro Rock n' Roll elements that I am not a fan of.

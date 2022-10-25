@@ -49,7 +49,7 @@ The rockiest jam of the album.
 
 ##### "Still Waiting"
 
-A catch laid back little song.
+A catchy laid back little song.
 
 ##### "I Feel For You"
 
