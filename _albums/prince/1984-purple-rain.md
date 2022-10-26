@@ -14,7 +14,7 @@ categories: prince
 1.	"Let's Go Crazy" 💎
 2.	"Take Me with U" ⭐️
 3.	"The Beautiful Ones" ⭐️
-4.	"Computer Blue"
+4.	"Computer Blue" ⭐️
 5.	"Darling Nikki"
 6.	"When Doves Cry" 💎
 7.	"I Would Die 4 U" 💎
