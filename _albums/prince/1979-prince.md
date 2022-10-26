@@ -11,7 +11,7 @@ Prince's second album. Again, all instruments and almost all vocals by Prince hi
 
 ## Tracklist:
 
-1.	"I Wanna Be Your Lover"
+1.	"I Wanna Be Your Lover" ⭐️
 2.	"Why You Wanna Treat Me So Bad?"
 3.	"Sexy Dancer" ⭐️
 4.	"When We're Dancing Close and Slow"
@@ -23,7 +23,7 @@ Prince's second album. Again, all instruments and almost all vocals by Prince hi
 
 ### Comments
 
-##### "I Wanna Be Your Lover"
+##### "I Wanna Be Your Lover" ⭐️
 
 The big single. A great one.
 
