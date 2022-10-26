@@ -15,8 +15,8 @@ Prince's third album. The first one featuring other musicians on the album. Only
 2. "When You Were Mine"
 3. "Do It All Night"
 4. "Gotta Broken Heart Again"
-5.	"Uptown"
-6.	"Head"
+5.	"Uptown" ⭐️
+6.	"Head" ⭐️
 7.	"Sister"
 8.	"Partyup"
 
@@ -38,7 +38,7 @@ Synthy intro. Good song but unremarkable for Prince.
 
 The one slow song on the album. Unmemorable.
 
-##### "Uptown"
+##### "Uptown" ⭐️
 
 Tied with "Head" for my favourite track. 123bpm so totally works with a four on the floor house beat. Crystal Water's 1997 cover goes hard.
 
@@ -46,7 +46,7 @@ Tied with "Head" for my favourite track. 123bpm so totally works with a four on 
 >
 > everybody just a-freakin
 
-##### "Head"
+##### "Head" ⭐️
 
 A funk classic. Slower at 110bpm. As far as I can recall the first song of his featuring someone else's voice.
 

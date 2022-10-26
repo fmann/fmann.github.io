@@ -13,7 +13,7 @@ Prince's first album. Nearly all instruments played by Prince himself.
 
 1.	"For You"
 2.	"In Love"
-3.	"Soft and Wet"
+3.	"Soft and Wet" ⭐️
 4.	"Crazy You"
 5.	"Just as Long as We're Together"
 6.	"Baby"
@@ -31,7 +31,7 @@ An a capella intro. Relatively forgettable.
 
 "In Love" is a solid. Funky but tight, super 80s synth sounds.
 
-##### "Soft and Wet"
+##### "Soft and Wet" ⭐️
 
 This was the hit single from the album. Tight, only in the break really does some disco four on the floor sneak through.
 

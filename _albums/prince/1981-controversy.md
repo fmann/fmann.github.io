@@ -11,18 +11,18 @@ Prince's fourth album. Most performances by him again.
 
 ## Tracklist:
 
-1.	"Controversy"
+1.	"Controversy" 💎
 2.	"Sexuality"
 3.	"Do Me, Baby"
 4.	"Private Joy"
 5.	"Ronnie, Talk to Russia"
-6.	"Let's Work"
+6.	"Let's Work" ⭐️
 7.	"Annie Christian"
 8.	"Jack U Off"
 
 ### Comments
 
-##### "Controversy"
+##### "Controversy" 💎
 
 Prince's greatest song to-date, has a fatter sounds than anything he'd done before. The bass just bump bump bumps on the beat but it works. The synth, the guitar, and the bass all sound great together. The bridge is fantastic and the track just keeps trucking along at 119bpm.
 > People call me rude,
@@ -51,7 +51,7 @@ Regrettably 80s synth pop, though there is a some nice bass work buried under th
 
 Anti-nuclear war jam that sounds like Jimi Hendrix covering "Wheels on the Bus" in 1981. Not very good, though "Don't blow up the world" isn't a bad message.
 
-##### "Let's Work"
+##### "Let's Work" ⭐️
 
 Reminiscent of "Head" but with the thicker sound that he found on this album. Solid bass driven dance tune.
 

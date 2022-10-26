@@ -13,7 +13,7 @@ Prince's second album. Again, all instruments and almost all vocals by Prince hi
 
 1.	"I Wanna Be Your Lover"
 2.	"Why You Wanna Treat Me So Bad?"
-3.	"Sexy Dancer"
+3.	"Sexy Dancer" ⭐️
 4.	"When We're Dancing Close and Slow"
 5.	"With You"
 6.	"Bambi"
@@ -31,7 +31,7 @@ The big single. A great one.
 
 Another solid tune. A bit rockier, almost has the vibe of a song by The Cars.
 
-##### "Sexy Dancer"
+##### "Sexy Dancer" ⭐️
 
 A straight up 80s tight funk banger.
 
