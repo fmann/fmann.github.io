@@ -25,7 +25,7 @@ Prince's second album. Again, all instruments and almost all vocals by Prince hi
 
 ##### "I Wanna Be Your Lover" ⭐️
 
-The big single. A great one.
+The big single. A great one. [His first video](https://www.youtube.com/watch?v=Rp8WL621uGM) includes him singing, playing guitar, drums, bass, and keyboard.
 
 ##### "Why You Wanna Treat Me So Bad?"
 

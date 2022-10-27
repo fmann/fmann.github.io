@@ -11,7 +11,7 @@ Prince's third album. The first one featuring other musicians on the album. Only
 
 ## Tracklist:
 
-1. "Dirty Mind"
+1. "Dirty Mind" ⭐️
 2. "When You Were Mine"
 3. "Do It All Night"
 4. "Gotta Broken Heart Again"
@@ -22,9 +22,9 @@ Prince's third album. The first one featuring other musicians on the album. Only
 
 ### Comments
 
-##### "Dirty Mind"
+##### "Dirty Mind" ⭐️
 
-A good catchy intro track.
+A good catchy intro track. One of <a href="https://www.youtube.com/watch?v=c3GPPnVz1fw"></a>his earlier music videos</a>.
 
 ##### "When You Were Mine"
 

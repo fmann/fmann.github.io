@@ -24,7 +24,8 @@ Prince's fourth album. Most performances by him again.
 
 ##### "Controversy" 💎
 
-Prince's greatest song to-date, has a fatter sounds than anything he'd done before. The bass just bump bump bumps on the beat but it works. The synth, the guitar, and the bass all sound great together. The bridge is fantastic and the track just keeps trucking along at 119bpm.
+Prince's greatest song to-date, has a fatter sounds than anything he'd done before. The bass just bump bump bumps on the beat but it works. The synth, the guitar, and the bass all sound great together. The bridge is fantastic and the track just keeps trucking along at 119bpm. [Video here](https://www.youtube.com/watch?v=4gazNwzC4H0&list=PLrwXzbX3SWnu1H2yesZA0-28anAKGK6ZE&index=26).
+
 > People call me rude,
 >
 > I wish we all were nude,
