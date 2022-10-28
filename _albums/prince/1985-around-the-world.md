@@ -52,7 +52,7 @@ Definitely my favourite tune on the album.
 
 ##### "The Ladder"
 
-The two things I hate in 80s pop are gated reverb snare drums and shmaltzy sax. It is mixed pretty quietly, thank goodness, but the sax here is bad.
+The two things I hate in 80s pop are fake-ass [gated reverb snare](https://www.youtube.com/watch?v=Bxz6jShW-3E&t=271s) drums and shmaltzy sax. It is mixed pretty quietly, thank goodness, but the sax here is not good.
 
 ##### "Temptation"
 
