@@ -8,7 +8,7 @@ date:   2022-10-26 12:00:00 +0800
 categories: prince
 ---
 
-
+I don't need to say much about this since it's the most iconic album of the 80s. I'll probably add something at some point, but for now just a hat tip and on I go.
 ## Tracklist:
 
 1.	"Let's Go Crazy" 💎
@@ -22,3 +22,13 @@ categories: prince
 9.	"Purple Rain" 💎
 
 ### Comments
+
+##### "Let's Go Crazy" 💎
+##### "Take Me with U" ⭐️
+##### "The Beautiful Ones" ⭐️
+##### "Computer Blue" ⭐️
+##### "Darling Nikki"
+##### "When Doves Cry" 💎
+##### "I Would Die 4 U" 💎
+##### "Baby I'm a Star"
+##### "Purple Rain" 💎
