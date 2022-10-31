@@ -52,3 +52,27 @@ Catchy as can be, and the screechy little synth stabs totally work. I love the l
 > Meet me in another world, space and joy
 >
 > Vous êtes tres belle, mama, girls and boys
+
+##### "Life Can Be So Nice"
+
+More on the rock side. A little repetative but not bad.
+
+##### "Venus de Milo"
+
+##### "Mountains"
+
+##### "Do U Lie?"
+
+Silly little song with accordion and strings. Charming.
+
+##### "Kiss" 💎
+
+Still a standout track with nothing else really comparable to it.
+
+##### "Anotherloverholenyohead" ⭐️
+
+Solid jam.
+
+##### "Sometimes It Snows in April"
+
+The best ballad on the album.
