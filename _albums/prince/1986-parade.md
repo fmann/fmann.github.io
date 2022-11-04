@@ -59,7 +59,10 @@ More on the rock side. A little repetative but not bad.
 
 ##### "Venus de Milo"
 
+Mood music from the movie.
 ##### "Mountains"
+
+A poppy tune. I like his falsetto here.
 
 ##### "Do U Lie?"
 
@@ -75,4 +78,4 @@ Solid jam.
 
 ##### "Sometimes It Snows in April"
 
-The best ballad on the album.
+This is a really pretty ballad.
