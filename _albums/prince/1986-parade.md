@@ -1,7 +1,7 @@
 ---
 layout: album
 artist: "Prince"
-title:  "Prade"
+title:  "Parade"
 year: 1986
 image: /assets/albums/prince/1988-parade.jpg
 date:   2022-10-31 12:00:00 +0800
