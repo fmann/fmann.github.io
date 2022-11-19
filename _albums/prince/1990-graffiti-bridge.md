@@ -36,7 +36,7 @@ Rocky, poppy, not very good.
 
 ##### "New Power Generation, Part 1"
 
-Kinda catchy anthem for the New Power Generation, a bit silly.
+Kinda catchy anthem for the New Power Generation, a bit silly lyrically in a Twisted Sister sort of "Hey old man, we're not going abide by your rules" way.
 
 ##### "Release It"
 
@@ -56,4 +56,44 @@ House-y tune with Tevin Campbell.
 
 ##### "We Can Funk"
 
-Includes George Clinton but I dare say it is kinda a lame song.
+Includes George Clinton but I dare say it isn't a very good song. The best part is the last minute or so with the back up singers doing harmony.
+
+##### "Joy in Repetition"
+
+One of the better songs on the album.
+
+##### "Love Machine"
+
+The Time again. Goofy tune.
+
+##### "Tick, Tick, Bang"
+
+Scratching and break beat but doesn't really work. He's trying though.
+
+##### "Shake!"
+
+Dorky song by The Time.
+
+##### "Thieves in the Temple" 💎
+
+The most memorable song from the album and the only hit. Not great but better than the rest of this album.
+
+##### "The Latest Fashion"
+
+Prince and The Time. ... Meh.
+
+##### "Melody Cool"
+
+The woman singing has a good voice. Probably sounds good in a club.
+
+##### "Still Would Stand All Time"
+
+Wouldn't be a Prince album without a gospelly sounding slow jam. Here it is.
+
+##### "Graffiti Bridge"
+
+Cinematically it may work for a big finale but on its own it is hillariously bad.
+
+##### "New Power Generation, Part 2"
+
+Closing credits to the movie, I can only assume. The rapper on here isn't bad actually.
