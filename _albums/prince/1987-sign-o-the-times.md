@@ -29,6 +29,8 @@ categories: prince
 
 ### Comments
 
+I recently saw an article, in The Guardian, I think, that was the quintessential albums by various musicians. This was the one listed for Prince. I agree! It didn't have the same cultural impact that Purple Rain did, but "Sign O' The Times" demonstrates the full range of what Prince was capable of. It'd be my pick if I could only listen to a single Prince album.
+
 ##### "Sign o' the Times"
 
 I've always liked this song but it has that awkward thing which some 80s songs have where artists who are out of touch with "the street" like Prince or Michael Jackson try to sing about the streets the way Marvin Gaye or Curtis Mayfield did. This style was [brilliantly parodied on Flight of the Conchords](https://www.youtube.com/watch?v=TLEK0UZH4cs).
