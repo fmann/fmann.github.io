@@ -35,4 +35,13 @@ I've always liked this song.
 
 Goofy.
 
+##### "Diamonds and Pearls"
 
+The trumpets and drum breakdown around the 2:30 mark are goofy, but that is where Prince was at.
+##### "Cream"
+
+This one always reminds me of Love & Rockets' "So Alive."
+
+##### "Strollin'"
+
+A jazzy, loungey little number. That guitar is like George Benson rather than Prince's usual rock sound.
