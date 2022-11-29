@@ -11,4 +11,5 @@ I am a web developer living in Vancouver, BC. I run [The Fresh Loaf](https://the
 **find me at ✨**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- Mastodon: [@cornycornguy@mstdn.ca](https://mstdn.ca/@cornycornguy)
+- [github.com/{{ site.author.github }}](https://github.com/fmann)
