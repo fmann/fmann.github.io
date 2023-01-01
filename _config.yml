@@ -1,7 +1,7 @@
 # Site settings
 title: Miwomi. # site title
 description: >- # site description
-  This and that. Miło mi!
+
 lang: en-US # default lang
 timezone: America/Vancouver # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Floyd # author name
   bio: >- # tell to the world
-    I think I am going to blog a bit here.
+    My blog and collection of random posts.
   username: fmann # general username
   github: fmann # github username
   twitter: cornycornguy # twitter username
